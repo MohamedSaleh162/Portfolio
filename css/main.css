@@ -380,13 +380,13 @@ ul {
     max-width: 350px;
     border-radius: 50%;
     animation: up-and-down 3s linear infinite;
-    box-shadow: 0 0 10px var(--main-color);
+    box-shadow: 0 0 6px var(--main-color);
     outline: none;
   }
 }
 @media (max-width: 767px) {
   .home .container .image img {
-    width: 250px;
+    width: 300px;
   }
 }
 /* Start About */
